@@ -1,0 +1,1 @@
+https://www2.karlin.mff.cuni.cz/~tuma/2002/NLinalg2.pdf
