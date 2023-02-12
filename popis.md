@@ -87,4 +87,4 @@ x5 = -0.01739130434783333
 ```
 
 ## ZKOUŠKA
-<img src='https://github.com/jmoravec01/NUM/zkouska/1.png'/>
+<img src='https://github.com/jmoravec01/NUM/blob/master/zkouska/1.png'/>
