@@ -4,10 +4,10 @@
 
 ## informační stránky (Gaussova eliminační metoda)
 >Odkaz níže je přímo na stáhnutí PDF souboru -> především metoda s pivotem.
->https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwigi-bL8o_9AhVyIMUKHZ3uB-w4ChAWegQIBxAB&url=https%3A%2F%2Fmathonline.fme.vutbr.cz%2Fdownload.aspx%3Fid_file%3D239&usg=AOvVaw38ciT9ICHsoESvKicAO-a6
+>>https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwigi-bL8o_9AhVyIMUKHZ3uB-w4ChAWegQIBxAB&url=https%3A%2F%2Fmathonline.fme.vutbr.cz%2Fdownload.aspx%3Fid_file%3D239&usg=AOvVaw38ciT9ICHsoESvKicAO-a6
 >
->Odkaz níže odkazuje na eBook o Gaussově eliminaci. Zde je hezky znázorněna zpětná substituce.s
->https://www.yumpu.com/xx/document/read/23769606/gaussova-eliminace
+>Odkaz níže odkazuje na eBook o Gaussově eliminaci. Zde je hezky znázorněna zpětná substituce.
+>>https://www.yumpu.com/xx/document/read/23769606/gaussova-eliminace
 
 ## VÝSLEDEK
 >V postupech si lze všimnout, že plno čísel není přímo rovno 0, ale čísla jsou často tak malá (e-14, e-18), že se jako 0 v podstatě berou.
