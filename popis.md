@@ -1,6 +1,6 @@
 ## stránky na výpočet hodnoty -> ověření, zda mi to vychází správně
->https://onlinemschool.com/math/assistance/equation/gaus/
->https://matrix.reshish.com/gauss-jordanElimination.php
+>>https://onlinemschool.com/math/assistance/equation/gaus/
+>>https://matrix.reshish.com/gauss-jordanElimination.php
 
 ## informační stránky (Gaussova eliminační metoda)
 >Odkaz níže je přímo na stáhnutí PDF souboru -> především metoda s pivotem.
