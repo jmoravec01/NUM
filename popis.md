@@ -2,10 +2,10 @@
 >https://onlinemschool.com/math/assistance/equation/gaus/ | https://matrix.reshish.com/gauss-jordanElimination.php
 
 ## informační stránky (Gaussova eliminační metoda)
->Odkaz níže je přímo na stáhnutí PDF souboru -> především metoda s pivotem.
+>Odkaz je přímo na stáhnutí PDF souboru -> především metoda s pivotem.
 >https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwigi-bL8o_9AhVyIMUKHZ3uB-w4ChAWegQIBxAB&url=https%3A%2F%2Fmathonline.fme.vutbr.cz%2Fdownload.aspx%3Fid_file%3D239&usg=AOvVaw38ciT9ICHsoESvKicAO-a6
 
->Odkaz níže odkazuje na eBook o Gaussově eliminaci. Zde je hezky znázorněna zpětná substituce.
+>Odkaz na eBook o Gaussově eliminaci. Zde je hezky znázorněna zpětná substituce.
 >https://www.yumpu.com/xx/document/read/23769606/gaussova-eliminace
 
 ## VÝSLEDEK
