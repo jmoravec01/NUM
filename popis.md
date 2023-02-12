@@ -87,4 +87,9 @@ x5 = -0.01739130434783333
 ```
 
 ## ZKOUŠKA
+>vektor: [3, 1, 1, 2, 0]
 <img src='https://github.com/jmoravec01/NUM/blob/master/zkouska/1.png'/>
+<img src='https://github.com/jmoravec01/NUM/blob/master/zkouska/2.png'/>
+<img src='https://github.com/jmoravec01/NUM/blob/master/zkouska/3.png'/>
+<img src='https://github.com/jmoravec01/NUM/blob/master/zkouska/4.png'/>
+<img src='https://github.com/jmoravec01/NUM/blob/master/zkouska/5.png'/>
