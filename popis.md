@@ -1,12 +1,9 @@
-## skripta, ze kterých jsem čerpal
-
-
 ## stránky na výpočet hodnoty -> ověření, zda mi to vychází správně
-https://onlinemschool.com/math/assistance/equation/gaus/
-https://matrix.reshish.com/gauss-jordanElimination.php
+>https://onlinemschool.com/math/assistance/equation/gaus/
+>https://matrix.reshish.com/gauss-jordanElimination.php
 
 ## VÝSLEDEK
-V postupech si lze všimnout, že plno čísel není přímo rovno 0, ale čísla jsou často tak malá (e-14, e-18), že se jako 0 v podstatě berou.
+>V postupech si lze všimnout, že plno čísel není přímo rovno 0, ale čísla jsou často tak malá (e-14, e-18), že se jako 0 v podstatě berou.
 ```
 --------------------
 i = 1
@@ -40,4 +37,12 @@ x2 = 1932.1608695617913
 x3 = -687.9999999987805
 x4 = -2.286956521734775
 x5 = -0.017391304347832422
+ 
+VÝSLEDEK NumPy:
+x1 = -637.4999999990561
+x2 = 1932.1608695623568
+x3 = -687.9999999989819
+x4 = -2.286956521735483
+x5 = -0.01739130434783333
+
 ```
